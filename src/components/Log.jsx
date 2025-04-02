@@ -6,4 +6,4 @@ export default function Log({ turns }) {
       ))}
     </ol>
   );
-}
+} 
